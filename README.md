@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<a href= "https://jahanvisharma.ml/" target="blank" ><img src="ab.gif"  width="1000" height="300"></a>
+  <div>
+    <a href= "https://jahanvisharma.ml/" ><img src="ab.gif"  width="1000" height="300"></a> </div>
 </body>
 </html>
